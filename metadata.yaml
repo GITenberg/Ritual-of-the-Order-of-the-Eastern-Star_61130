@@ -1,5 +1,8 @@
 _repo: Ritual-of-the-Order-of-the-Eastern-Star_61130
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61130-h/images/cover.jpg
 creator:
   author:
     agent_name: Order of the Eastern Star. General Grand Chapter
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51267
     wikipedia: https://en.wikipedia.org/wiki/Order_of_the_Eastern_Star
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61130#Ritual-of-the-Order-of-the-Eastern-Star
 gutenberg_issued: '2020-01-08'
 gutenberg_type: Text
 identifiers:
